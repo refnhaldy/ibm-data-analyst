@@ -1,7 +1,7 @@
 # IBM Data Analyst Professional<img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 <p align="center">
-<img src="/ibm-data-analyst\Certificate_PD2Q77AP74M6.png" width=65% height=65%>
+<img alt="Certificate" src="Certificate_PD2Q77AP74M6.png" width=65% height=65%>
 
 ---
 
